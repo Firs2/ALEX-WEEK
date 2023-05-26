@@ -1,6 +1,6 @@
 ﻿
 using FIRS.Attbutes;
-using FIRS.CoreMoues.Mathemat;
+using FIRS.CoreModules.Mathematics;
 using FIRS.SystemModules.ControllerSystems;
 using UnityEngine;
 
