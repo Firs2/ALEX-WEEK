@@ -1,14 +1,4 @@
-﻿/* ================================================================
-   ----------------------------------------------------------------
-   Project   :   Aurora FPS Engine
-   Publisher :   Infinite Dawn
-   Developer :   Tamerlan Shakirov
-   ----------------------------------------------------------------
-   Copyright © 2017 Tamerlan Shakirov All rights reserved.
-   ================================================================ */
-
-using FIRS.Attributes;
-using FIRS.CoreModules.Mathematics;
+﻿using FIRS.CoreModules.Mathematics;
 using FIRS.SystemModules.ControllerModules;
 using FIRS.SystemModules;
 using FIRS.SystemModules.HealthModules;
